@@ -80,4 +80,4 @@ Plots customer accounts by GP% vs YTD sales. Reveals a concentration of accounts
 🎯 Strategic Planning: Helps guide decisions in budgeting, resource allocation, and forecasting.
 
 6. Screenshot
-   https://github.com/d28006/Performance-Report/blob/main/Snapshot%20of%20Dashboard.PNG
+   ![Preview](https://github.com/d28006/Performance-Report/blob/main/Snapshot%20of%20Dashboard.PNG)
