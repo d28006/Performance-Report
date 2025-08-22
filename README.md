@@ -10,11 +10,17 @@ The Plant Co. Sales Performance Dashboard is a dynamic business intelligence rep
 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Main platform for creating visual reports and data storytelling
+
 • 🔄 Power Query (M) – For data cleaning, transformation, and integration
+
 • 🧠 DAX (Data Analysis Expressions) – To create dynamic measures and time intelligence logic
+
 • 🧩 Data Modeling – Structured relational model linking countries, sales data, and account-level metrics
+
 • 📁 File Format – .pbix (Power BI project) and exported images for sharing
+
 
 4. Data Source
 
